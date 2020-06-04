@@ -1,13 +1,13 @@
 # Site settings
 title: JasonKQLin's Blog
 SEOTitle: 我的博客 | My Blog
-header-img: img/post-bg-desk.jpg
+header-img: img/post-bg-desk.jpeg
 email: jasonkqlin@foxmail.com
 description: "无善无恶心之体，有善有恶意之动。知善知恶是良知，为善去恶是格物。"
 keyword: "生物信息学，生物统计学，大数据，人工智能，机器学习，深度学习"
 url: "https://jasonlinchina.github.io/bioinfo.github.com/"          # your host, for absolute URL
-baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/name/name.github.io.git" # you code repository
+baseurl: "/"      # for example, '/blog' if your blog hosted on 'host/blog'
+github_repo: "https://github.com/Jasonlinchina/bioinfo.github.com.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
